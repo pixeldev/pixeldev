@@ -6,4 +6,4 @@ Member of [UnnamedTeam](https://github.com/unnamed). Developer at [SeoCraft](htt
 
 I love Maths, develop in Java, play guitar and some instruments more.
 
-<h2 align="center">Contact me on Discord: PixelDev#1729 Or by email: contact@pixeldev.me</h2>
+### Contact me on Discord: PixelDev#1729 Or by email: contact@pixeldev.me
