@@ -7,3 +7,5 @@ Member of [UnnamedTeam](https://github.com/unnamed). Developer at [SeoCraft](htt
 I love Maths, develop in Java, play guitar and some instruments more.
 
 #### Discord: PixelDev#1729 Email: contact@pixeldev.me
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pixeldev&count_private=true)
