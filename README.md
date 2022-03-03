@@ -1,3 +1,5 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=pixeldev.readme.visitor-badge)
+
 # About me
 Hi! I'm Angel Miranda. I'm Java Developer with 3+ years of experience. I'm from Mexico and I'm 17 years old. Also I'm an UI/UX designer.
 
