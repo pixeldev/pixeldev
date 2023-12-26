@@ -5,5 +5,5 @@ I currently study an artificial intelligence engineering at ESCOM.
 You can checkout my coding time at: https://wakatime.com/@pixeldev.
 
 Discord: pixeldev 
-Email: pixeldev@fenixteam.org
+Email: pixeldev@houtave.com
 LinkedIn: https://www.linkedin.com/in/amiranda1729 
