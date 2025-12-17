@@ -82,7 +82,7 @@ Git (advanced usage in production environments)
 ## 🤝 Let’s Connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/amiranda1729
-- 📧 Email: amiranda8695@gmail.com
+- 📧 Email: angelmirandasanmartin@gmail.com
 
 I’m always open to discussing **backend engineering, cloud architecture, product-driven development, and AI applied to real-world systems**.
 
